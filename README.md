@@ -6,8 +6,6 @@ Users can change the font color on a custom black background.
 
 ### App Walk-though
 
-<img src="https://i.imgur.com/9uPsNs5.gif" width=200><br>
-
 https://user-images.githubusercontent.com/109637465/181131416-9c50ff64-a6e0-4e7d-99c4-969053d5e435.mp4
 
 
