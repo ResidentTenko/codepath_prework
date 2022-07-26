@@ -1,7 +1,8 @@
-## NAME_OF_YOUR_APP_HERE
+## CODEPATH PREWORK: Hello From Fidel
 
 ### App Description
-`TODO://` Add app description
+A short app that says hello to the user from the creator.
+Users can change the font color on a custom black background.
 
 ### App Walk-though
 
